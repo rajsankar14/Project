@@ -6,7 +6,7 @@ public class Count_a_words {
 
 	public static void main(String[] args) {
 
-		System.out.println("Enter the String");
+		System.out.println("Enter the Letter");
 		Scanner sc = new Scanner(System.in);
 	
 		String string = sc.nextLine();
